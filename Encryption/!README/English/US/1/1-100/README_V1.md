@@ -1,0 +1,680 @@
+
+***
+
+# Encryption library
+
+## Languages included
+
+A list of all the languages included
+
+- [ ] Apex
+- [ ] ALGOL
+- [ ] Ada
+- [ ] AppleScript
+- [ ] Arduino
+- [ ] ASL
+- [ ] AssemblyScript
+- [ ] AWK
+- [ ] Assembly
+- [ ] ActionScript
+- [ ] AngelScript
+- [ ] Agda
+- [ ] ASP.NET
+- [ ] B
+- [ ] Batchfile
+- [ ] Boo
+- [ ] BrightScript
+- [ ] BibTeX
+- [ ] BitBake
+- [ ] Brainfuck
+- [ ] BSDL
+- [ ] BASIC
+- [ ] CLIPS
+- [ ] Clean
+- [ ] C
+- [ ] C++
+- [ ] C#
+- [ ] Caml
+- [ ] CodeQL
+- [ ] CMake
+- [ ] Clojure
+- [ ] CoffeeScript
+- [ ] CommonLisp
+- [ ] Crystal
+- [ ] CSS
+- [ ] CSV
+- [ ] Cyclone
+- [ ] COBOL
+- [ ] Coq
+- [ ] D
+- [ ] Dart
+- [ ] Diff
+- [ ] Dhall
+- [ ] DM
+- [ ] Dockerfile
+- [ ] E
+- [ ] Eiffel
+- [ ] Elm
+- [ ] Erlang
+- [ ] Elixir
+- [ ] EJS
+- [ ] EAGLE
+- [ ] Emacs Lisp
+- [ ] Epigram
+- [ ] F#
+- [ ] FORTRAN 95
+- [ ] Forth
+- [ ] Factor
+- [ ] FreeMarker
+- [ ] Fancy
+- [ ] Go
+- [ ] Go!
+- [ ] GDScript
+- [ ] Genie
+- [ ] GetText
+- [ ] Gherkin
+- [ ] GLSL
+- [ ] Hack
+- [ ] HAML
+- [ ] Handlebars
+- [ ] HaProxy
+- [ ] Haskell
+- [ ] Haxe
+- [ ] HCL
+- [ ] HLSL
+- [ ] Hope
+- [ ] HTML
+- [ ] Idris
+- [ ] ImageJ
+- [ ] Inform
+- [ ] Inno Setup
+- [ ] Intel Hex Binary
+- [ ] IronPython
+- [ ] Isabelle
+- [ ] J
+- [ ] Java
+- [ ] JavaScript
+- [ ] Jade
+- [ ] JavaScript++
+- [ ] Jinja
+- [ ] Joy
+- [ ] JScript
+- [ ] JScript Dot Net
+- [ ] JSON
+- [ ] JSSS
+- [ ] Julia
+- [ ] JupyterNotebook
+- [ ] Jython
+- [ ] KiXTart
+- [ ] Kotlin
+- [ ] Less
+- [ ] Lex
+- [ ] Limbo
+- [ ] Liquid
+- [ ] Lisp
+- [ ] Lisp Flavored Erlang
+- [ ] LLVM
+- [ ] Logos
+- [ ] Logtalk
+- [ ] LOLCODE
+- [ ] Lua
+- [ ] M
+- [ ] M4
+- [ ] Makefile
+- [ ] Markdown
+- [ ] Mathematica
+- [ ] MATLAB
+- [ ] MediaWiki
+- [ ] Meson
+- [ ] Metal
+- [ ] ML
+- [ ] Modelica
+- [ ] Modula-2
+- [ ] Modula-3
+- [ ] Motorola S-RECORD
+- [ ] MS-DOS Style
+- [ ] Mustache
+- [ ] NASL
+- [ ] Nim
+- [ ] Nix
+- [ ] NSIS
+- [ ] Nunjucks
+- [ ] NVIDIA CUDA
+- [ ] Oberon
+- [ ] Objective-C
+- [ ] Objective-C++
+- [ ] Objective-J
+- [ ] OCAML
+- [ ] Octave
+- [ ] OpenEdge ABL
+- [ ] OpenSCAD
+- [ ] Orwell
+- [ ] Pascal
+- [ ] Pawn
+- [ ] Perl6
+- [ ] PHP
+- [ ] Piglatin
+- [ ] PostScript
+- [ ] PowerShell
+- [ ] ProcessingJS
+- [ ] Prolog
+- [ ] Pug
+- [ ] Puppet
+- [ ] PureBasic
+- [ ] PureScript
+- [ ] Python
+- [ ] QML
+- [ ] Q#
+- [ ] R
+- [ ] Racket
+- [ ] Raku
+- [ ] REBOL
+- [ ] ReStructured Text
+- [ ] Rexx
+- [ ] Rich Text Format
+- [ ] Roff
+- [ ] Ruby
+- [ ] Rust
+- [ ] SASS
+- [ ] Scala
+- [ ] Scheme
+- [ ] SciLab
+- [ ] Scratch
+- [ ] SCSS
+- [ ] Seed7
+- [ ] Self
+- [ ] SGML
+- [ ] ShaderLab
+- [ ] Shell
+- [ ] Singularity
+- [ ] Slim
+- [ ] Smalltalk
+- [ ] Smarty
+- [ ] SourcePawn
+- [ ] SQL
+- [ ] Standard ML
+- [ ] Starlark
+- [ ] Stylus
+- [ ] SuperCollider
+- [ ] SWIG
+- [ ] Swift
+- [ ] SXML
+- [ ] SystemVerilog
+- [ ] TCL
+- [ ] TeX
+- [ ] TOML
+- [ ] Twig
+- [ ] TypeScript
+- [ ] UnrealScript
+- [ ] V
+- [ ] Vala
+- [ ] Verilog AMS
+- [ ] Verilog
+- [ ] Verona
+- [ ] VHDL
+- [ ] Vim Script
+- [ ] Visual Basic DOT NET
+- [ ] Visual Basic Script
+- [ ] Vue.JS
+- [ ] WebAssembly
+- [ ] WebVTT
+- [ ] XML
+- [ ] XSLT
+- [ ] Yacc
+- [ ] YAML
+- [ ] ZenScript
+- [ ] Zig
+
+***
+
+## Starter languages
+
+A list of languages that have starter source code.
+
+- [ ] Apex
+- [ ] ALGOL
+- [ ] Ada
+- [ ] AppleScript
+- [ ] Arduino
+- [ ] ASL
+- [ ] AssemblyScript
+- [ ] AWK
+- [ ] Assembly
+- [ ] ActionScript
+- [ ] AngelScript
+- [ ] Agda
+- [ ] ASP.NET
+- [ ] B
+- [ ] Batchfile
+- [ ] Boo
+- [ ] BrightScript
+- [ ] BibTeX
+- [ ] BitBake
+- [ ] Brainfuck
+- [ ] BSDL
+- [ ] BASIC
+- [ ] CLIPS
+- [ ] Clean
+- [ ] C
+- [ ] C++
+- [ ] C#
+- [ ] Caml
+- [ ] CodeQL
+- [ ] CMake
+- [ ] Clojure
+- [ ] CoffeeScript
+- [ ] CommonLisp
+- [ ] Crystal
+- [ ] CSS
+- [ ] CSV
+- [ ] Cyclone
+- [ ] COBOL
+- [ ] Coq
+- [ ] D
+- [ ] Dart
+- [ ] Diff
+- [ ] Dhall
+- [ ] DM
+- [ ] Dockerfile
+- [ ] E
+- [ ] Eiffel
+- [ ] Elm
+- [ ] Erlang
+- [ ] Elixir
+- [ ] EJS
+- [ ] EAGLE
+- [ ] Emacs Lisp
+- [ ] Epigram
+- [ ] F#
+- [ ] FORTRAN 95
+- [ ] Forth
+- [ ] Factor
+- [ ] FreeMarker
+- [ ] Fancy
+- [ ] Go
+- [ ] Go!
+- [ ] GDScript
+- [ ] Genie
+- [ ] GetText
+- [ ] Gherkin
+- [ ] GLSL
+- [ ] Hack
+- [ ] HAML
+- [ ] Handlebars
+- [ ] HaProxy
+- [ ] Haskell
+- [ ] Haxe
+- [ ] HCL
+- [ ] HLSL
+- [ ] Hope
+- [ ] HTML
+- [ ] Idris
+- [ ] ImageJ
+- [ ] Inform
+- [ ] Inno Setup
+- [ ] Intel Hex Binary
+- [ ] IronPython
+- [ ] Isabelle
+- [ ] J
+- [ ] Java
+- [ ] JavaScript
+- [ ] Jade
+- [ ] JavaScript++
+- [ ] Jinja
+- [ ] Joy
+- [ ] JScript
+- [ ] JScript Dot Net
+- [ ] JSON
+- [ ] JSSS
+- [ ] Julia
+- [ ] JupyterNotebook
+- [ ] Jython
+- [ ] KiXTart
+- [ ] Kotlin
+- [ ] Less
+- [ ] Lex
+- [ ] Limbo
+- [ ] Liquid
+- [ ] Lisp
+- [ ] Lisp Flavored Erlang
+- [ ] LLVM
+- [ ] Logos
+- [ ] Logtalk
+- [ ] LOLCODE
+- [ ] Lua
+- [ ] M
+- [ ] M4
+- [ ] Makefile
+- [ ] Markdown
+- [ ] Mathematica
+- [ ] MATLAB
+- [ ] MediaWiki
+- [ ] Meson
+- [ ] Metal
+- [ ] ML
+- [ ] Modelica
+- [ ] Modula-2
+- [ ] Modula-3
+- [ ] Motorola S-RECORD
+- [ ] MS-DOS Style
+- [ ] Mustache
+- [ ] NASL
+- [ ] Nim
+- [ ] Nix
+- [ ] NSIS
+- [ ] Nunjucks
+- [ ] NVIDIA CUDA
+- [ ] Oberon
+- [ ] Objective-C
+- [ ] Objective-C++
+- [ ] Objective-J
+- [ ] OCAML
+- [ ] Octave
+- [ ] OpenEdge ABL
+- [ ] OpenSCAD
+- [ ] Orwell
+- [ ] Pascal
+- [ ] Pawn
+- [x] Perl6
+- [ ] PHP
+- [ ] Piglatin
+- [ ] PostScript
+- [ ] PowerShell
+- [ ] ProcessingJS
+- [ ] Prolog
+- [ ] Pug
+- [ ] Puppet
+- [ ] PureBasic
+- [ ] PureScript
+- [x] Python
+- [ ] QML
+- [ ] Q#
+- [ ] R
+- [ ] Racket
+- [ ] Raku
+- [ ] REBOL
+- [ ] ReStructured Text
+- [ ] Rexx
+- [ ] Rich Text Format
+- [ ] Roff
+- [ ] Ruby
+- [ ] Rust
+- [ ] SASS
+- [ ] Scala
+- [ ] Scheme
+- [ ] SciLab
+- [ ] Scratch
+- [ ] SCSS
+- [ ] Seed7
+- [ ] Self
+- [ ] SGML
+- [ ] ShaderLab
+- [ ] Shell
+- [ ] Singularity
+- [ ] Slim
+- [ ] Smalltalk
+- [ ] Smarty
+- [ ] SourcePawn
+- [ ] SQL
+- [ ] Standard ML
+- [ ] Starlark
+- [ ] Stylus
+- [ ] SuperCollider
+- [ ] SWIG
+- [ ] Swift
+- [ ] SXML
+- [ ] SystemVerilog
+- [ ] TCL
+- [ ] TeX
+- [ ] TOML
+- [ ] Twig
+- [ ] TypeScript
+- [ ] UnrealScript
+- [ ] V
+- [ ] Vala
+- [ ] Verilog AMS
+- [ ] Verilog
+- [ ] Verona
+- [ ] VHDL
+- [ ] Vim Script
+- [ ] Visual Basic DOT NET
+- [ ] Visual Basic Script
+- [ ] Vue.JS
+- [ ] WebAssembly
+- [ ] WebVTT
+- [ ] XML
+- [ ] XSLT
+- [ ] Yacc
+- [ ] YAML
+- [ ] ZenScript
+- [ ] Zig
+
+***
+
+## Languages encrypted in at least 1 way
+
+Languages that have successfully encrypted the AZWS encryption in at least 1 way (the total number of solutions will be listed next to each language)
+
+- [ ] Apex
+- [ ] ALGOL
+- [ ] Ada
+- [ ] AppleScript
+- [ ] Arduino
+- [ ] ASL
+- [ ] AssemblyScript
+- [ ] AWK
+- [ ] Assembly
+- [ ] ActionScript
+- [ ] AngelScript
+- [ ] Agda
+- [ ] ASP.NET
+- [ ] B
+- [ ] Batchfile
+- [ ] Boo
+- [ ] BrightScript
+- [ ] BibTeX
+- [ ] BitBake
+- [ ] Brainfuck
+- [ ] BSDL
+- [ ] BASIC
+- [ ] CLIPS
+- [ ] Clean
+- [ ] C
+- [ ] C++
+- [ ] C#
+- [ ] Caml
+- [ ] CodeQL
+- [ ] CMake
+- [ ] Clojure
+- [ ] CoffeeScript
+- [ ] CommonLisp
+- [ ] Crystal
+- [ ] CSS
+- [ ] CSV
+- [ ] Cyclone
+- [ ] COBOL
+- [ ] Coq
+- [ ] D
+- [ ] Dart
+- [ ] Diff
+- [ ] Dhall
+- [ ] DM
+- [ ] Dockerfile
+- [ ] E
+- [ ] Eiffel
+- [ ] Elm
+- [ ] Erlang
+- [ ] Elixir
+- [ ] EJS
+- [ ] EAGLE
+- [ ] Emacs Lisp
+- [ ] Epigram
+- [ ] F#
+- [ ] FORTRAN 95
+- [ ] Forth
+- [ ] Factor
+- [ ] FreeMarker
+- [ ] Fancy
+- [ ] Go
+- [ ] Go!
+- [ ] GDScript
+- [ ] Genie
+- [ ] GetText
+- [ ] Gherkin
+- [ ] GLSL
+- [ ] Hack
+- [ ] HAML
+- [ ] Handlebars
+- [ ] HaProxy
+- [ ] Haskell
+- [ ] Haxe
+- [ ] HCL
+- [ ] HLSL
+- [ ] Hope
+- [ ] HTML
+- [ ] Idris
+- [ ] ImageJ
+- [ ] Inform
+- [ ] Inno Setup
+- [ ] Intel Hex Binary
+- [ ] IronPython
+- [ ] Isabelle
+- [ ] J
+- [ ] Java
+- [ ] JavaScript
+- [ ] Jade
+- [ ] JavaScript++
+- [ ] Jinja
+- [ ] Joy
+- [ ] JScript
+- [ ] JScript Dot Net
+- [ ] JSON
+- [ ] JSSS
+- [ ] Julia
+- [ ] JupyterNotebook
+- [ ] Jython
+- [ ] KiXTart
+- [ ] Kotlin
+- [ ] Less
+- [ ] Lex
+- [ ] Limbo
+- [ ] Liquid
+- [ ] Lisp
+- [ ] Lisp Flavored Erlang
+- [ ] LLVM
+- [ ] Logos
+- [ ] Logtalk
+- [ ] LOLCODE
+- [ ] Lua
+- [ ] M
+- [ ] M4
+- [ ] Makefile
+- [ ] Markdown
+- [ ] Mathematica
+- [ ] MATLAB
+- [ ] MediaWiki
+- [ ] Meson
+- [ ] Metal
+- [ ] ML
+- [ ] Modelica
+- [ ] Modula-2
+- [ ] Modula-3
+- [ ] Motorola S-RECORD
+- [ ] MS-DOS Style
+- [ ] Mustache
+- [ ] NASL
+- [ ] Nim
+- [ ] Nix
+- [ ] NSIS
+- [ ] Nunjucks
+- [ ] NVIDIA CUDA
+- [ ] Oberon
+- [ ] Objective-C
+- [ ] Objective-C++
+- [ ] Objective-J
+- [ ] OCAML
+- [ ] Octave
+- [ ] OpenEdge ABL
+- [ ] OpenSCAD
+- [ ] Orwell
+- [ ] Pascal
+- [ ] Pawn
+- [ ] Perl6
+- [ ] PHP
+- [ ] Piglatin
+- [ ] PostScript
+- [ ] PowerShell
+- [ ] ProcessingJS
+- [ ] Prolog
+- [ ] Pug
+- [ ] Puppet
+- [ ] PureBasic
+- [ ] PureScript
+- [ ] Python
+- [ ] QML
+- [ ] Q#
+- [ ] R
+- [ ] Racket
+- [ ] Raku
+- [ ] REBOL
+- [ ] ReStructured Text
+- [ ] Rexx
+- [ ] Rich Text Format
+- [ ] Roff
+- [ ] Ruby
+- [ ] Rust
+- [ ] SASS
+- [ ] Scala
+- [ ] Scheme
+- [ ] SciLab
+- [ ] Scratch
+- [ ] SCSS
+- [ ] Seed7
+- [ ] Self
+- [ ] SGML
+- [ ] ShaderLab
+- [ ] Shell
+- [ ] Singularity
+- [ ] Slim
+- [ ] Smalltalk
+- [ ] Smarty
+- [ ] SourcePawn
+- [ ] SQL
+- [ ] Standard ML
+- [ ] Starlark
+- [ ] Stylus
+- [ ] SuperCollider
+- [ ] SWIG
+- [ ] Swift
+- [ ] SXML
+- [ ] SystemVerilog
+- [ ] TCL
+- [ ] TeX
+- [ ] TOML
+- [ ] Twig
+- [ ] TypeScript
+- [ ] UnrealScript
+- [ ] V
+- [ ] Vala
+- [ ] Verilog AMS
+- [ ] Verilog
+- [ ] Verona
+- [ ] VHDL
+- [ ] Vim Script
+- [ ] Visual Basic DOT NET
+- [ ] Visual Basic Script
+- [ ] Vue.JS
+- [ ] WebAssembly
+- [ ] WebVTT
+- [ ] XML
+- [ ] XSLT
+- [ ] Yacc
+- [ ] YAML
+- [ ] ZenScript
+- [ ] Zig
+
+***
+
+**File version:** `1 (2022, Thursday, February 24th at 7:58 pm)`
+
+***
