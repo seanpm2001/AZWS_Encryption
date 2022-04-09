@@ -472,6 +472,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanpm2001-Pascal-lang",
+      "name": "Seanpm2001 Pascal projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84041400?v=4",
+      "profile": "https://en.wikipedia.org/wiki/Pascal_(programming_language)",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
