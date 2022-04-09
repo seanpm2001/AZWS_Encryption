@@ -421,6 +421,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanpm2001-FORTRAN-lang",
+      "name": "Seanpm2001 Fortran projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84148801?v=4",
+      "profile": "https://fortran-lang.org/",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
