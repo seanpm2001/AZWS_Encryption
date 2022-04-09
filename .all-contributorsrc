@@ -251,6 +251,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanpm2001-GoogleGo-lang",
+      "name": "Seanpm2001 Go (2009 Google language) project",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84039431?v=4",
+      "profile": "https://github.com/seanpm2001/Go-ogle",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
