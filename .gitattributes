@@ -6,20 +6,21 @@
 # and nothing else, no characters before, no characters after
 # Start of linguist script
 # HTML (HyperText Markup Language) document
-*.htm linguist-detectable=true
+# Taken out for now, not enough C++ (at least 2000 lines needed)
+*.htm linguist-detectable=false
 *.htm linguist-documentation=false
-*.html linguist-detectable=true
+*.html linguist-detectable=false
 *.html linguist-documentation=false
-*.mhtm linguist-detectable=true
+*.mhtm linguist-detectable=false
 *.mhtm linguist-documentation=false
-*.mhtml linguist-detectable=true
+*.mhtml linguist-detectable=false
 *.mhtml linguist-documentation=false
-*.xhtm linguist-detectable=true
+*.xhtm linguist-detectable=false
 *.xhtm linguist-documentation=false
-*.xhtml linguist-detectable=true
+*.xhtml linguist-detectable=false
 *.xhtml linguist-documentation=false
 # HTA (HTML Application) file
-*.hta linguist-detectable=true
+*.hta linguist-detectable=false
 *.hta linguist-documentation=false
 # CSS (Cascade Styling Sheets) stylesheet file
 *.css linguist-detectable=true
@@ -34,7 +35,8 @@
 *.js linguist-detectable=true
 *.js linguist-documentation=false
 # JSON (JavaScript Object Notation) source file
-*.json linguist-detectable=true
+# Taken out for now, not enough C++ (at least 2000 lines needed)
+*.json linguist-detectable=false
 *.json linguist-documentation=false
 # PHP (PHP HyperText Preprocessor) source file
 *.php linguist-detectable=true
@@ -113,6 +115,6 @@
 # End of linguist script
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 3 (Monday, 2021 November 29th at 3:14 pm)
-# Line count (including blank lines and compiler line): 119
+# File version: 4 (Friday, 2022 April 8th at 6:51 pm PST)
+# Line count (including blank lines and compiler line): 121
 # End of script
