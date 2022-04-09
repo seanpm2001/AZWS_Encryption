@@ -64,6 +64,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "AZWS-Encryption",
+      "name": "AZWS Encryption (one to the side typing)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103292604?v=4",
+      "profile": "https://github.com/AZWS-Encryption",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
