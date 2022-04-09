@@ -353,6 +353,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanpm2001-D-lang",
+      "name": "Seanpm2001 D Language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84207209?v=4",
+      "profile": "https://github.com/dlang/dmd",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
