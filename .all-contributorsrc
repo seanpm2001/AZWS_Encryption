@@ -132,6 +132,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanpm2001-CPP-lang",
+      "name": "Seanpm2001 C++ project collection",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83990409?v=4",
+      "profile": "https://en.wikipedia.org/wiki/C%2B%2B",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
