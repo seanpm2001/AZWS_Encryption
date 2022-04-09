@@ -1,0 +1,194 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "seanpm2001",
+      "name": "Sean P. Myrick V19.1.7.2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65933340?v=4",
+      "profile": "https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "all-contributors",
+      "name": "All Contributors",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
+      "profile": "https://allcontributors.org",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "seanpm2001-all",
+      "name": "Seanpm2001 (All)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71843643?v=4",
+      "profile": "https://github.com/seanpm2001/",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-GPL",
+      "name": "Seanpm2001 GPL (General Public License)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86742875?v=4",
+      "profile": "https://github.com/Seanpm2001-GPL",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "AZWS-Encryption",
+      "name": "AZWS Encryption (one to the side typing)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103292604?v=4",
+      "profile": "https://github.com/AZWS-Encryption",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-education",
+      "name": "Seanpm2001 EDU",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83985869?v=4",
+      "profile": "https://github.com/seanpm2001/PhD_In_PHP",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-testing",
+      "name": "Seanpm2001 Testing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85586105?v=4",
+      "profile": "https://github.com/seanwallawalla-testing",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanwallawalla-testing",
+      "name": "SeanWallaWalla Testing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71898262?v=4",
+      "profile": "https://github.com/seanpm2001/",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-CPP-lang",
+      "name": "Seanpm2001 C++ project collection",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83990409?v=4",
+      "profile": "https://en.wikipedia.org/wiki/C%2B%2B",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-Elm-lang",
+      "name": "Seanpm2001 Elm language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94873709?v=4",
+      "profile": "https://github.com/elm",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-Perl-lang",
+      "name": "Seanpm2001 Perl projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84095190?v=4",
+      "profile": "https://github.com/seanpm2001/Perl_Harbor",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "AZWS_Encryption",
+  "projectOwner": "seanpm2001",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
