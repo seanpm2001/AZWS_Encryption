@@ -489,6 +489,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanpm2001-PureScript-lang",
+      "name": "Seanpm2001 PureScript language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85039793?v=4",
+      "profile": "https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PureScript",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,

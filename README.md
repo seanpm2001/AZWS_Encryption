@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-30-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
@@ -84,6 +84,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://en.wikipedia.org/wiki/Pascal_(programming_language)"><img src="https://avatars.githubusercontent.com/u/84041400?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 Pascal projects</b></sub></a><br /><a href="https://github.com/seanpm2001/AZWS_Encryption/commits?author=seanpm2001-Pascal-lang" title="Code">💻</a> <a href="https://github.com/seanpm2001/AZWS_Encryption/commits?author=seanpm2001-Pascal-lang" title="Documentation">📖</a> <a href="#projectManagement-seanpm2001-Pascal-lang" title="Project Management">📆</a> <a href="#security-seanpm2001-Pascal-lang" title="Security">🛡️</a> <a href="#data-seanpm2001-Pascal-lang" title="Data">🔣</a> <a href="#content-seanpm2001-Pascal-lang" title="Content">🖋</a> <a href="#design-seanpm2001-Pascal-lang" title="Design">🎨</a> <a href="#maintenance-seanpm2001-Pascal-lang" title="Maintenance">🚧</a> <a href="#ideas-seanpm2001-Pascal-lang" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PureScript"><img src="https://avatars.githubusercontent.com/u/85039793?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 PureScript language</b></sub></a><br /><a href="https://github.com/seanpm2001/AZWS_Encryption/commits?author=seanpm2001-PureScript-lang" title="Code">💻</a> <a href="https://github.com/seanpm2001/AZWS_Encryption/commits?author=seanpm2001-PureScript-lang" title="Documentation">📖</a> <a href="#projectManagement-seanpm2001-PureScript-lang" title="Project Management">📆</a> <a href="#security-seanpm2001-PureScript-lang" title="Security">🛡️</a> <a href="#data-seanpm2001-PureScript-lang" title="Data">🔣</a> <a href="#content-seanpm2001-PureScript-lang" title="Content">🖋</a> <a href="#design-seanpm2001-PureScript-lang" title="Design">🎨</a> <a href="#maintenance-seanpm2001-PureScript-lang" title="Maintenance">🚧</a> <a href="#ideas-seanpm2001-PureScript-lang" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
