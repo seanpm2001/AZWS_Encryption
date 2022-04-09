@@ -404,6 +404,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanpm2001-FSharp-lang",
+      "name": "Seanpm2001 F# projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84204913?v=4",
+      "profile": "https://github.com/fsharp/fsharp",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
