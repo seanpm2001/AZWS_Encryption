@@ -455,6 +455,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanpm2001-JavaScript-lang",
+      "name": "Seanpm2001 JavaScript projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84038651?v=4",
+      "profile": "https://www.javascript.com/",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
