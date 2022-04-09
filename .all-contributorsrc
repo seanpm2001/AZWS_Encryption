@@ -438,6 +438,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanpm2001-Java-lang",
+      "name": "Seanpm2001 Java projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84036524?v=4",
+      "profile": "https://practiceit.cs.washington.edu/",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
