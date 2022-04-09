@@ -81,6 +81,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanpm2001-education",
+      "name": "Seanpm2001 EDU",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83985869?v=4",
+      "profile": "https://github.com/seanpm2001/PhD_In_PHP",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
