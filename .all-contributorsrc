@@ -166,6 +166,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanpm2001-Perl-lang",
+      "name": "Seanpm2001 Perl projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84095190?v=4",
+      "profile": "https://github.com/seanpm2001/Perl_Harbor",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
