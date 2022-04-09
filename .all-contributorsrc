@@ -506,6 +506,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanpm2001-Scala-lang",
+      "name": "Seanpm2001 Scala language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84205948?v=4",
+      "profile": "https://github.com/scala/scala",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
