@@ -98,6 +98,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanpm2001-testing",
+      "name": "Seanpm2001 Testing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85586105?v=4",
+      "profile": "https://github.com/seanwallawalla-testing",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
