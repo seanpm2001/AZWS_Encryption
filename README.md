@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
@@ -75,6 +75,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/dlang/dmd"><img src="https://avatars.githubusercontent.com/u/84207209?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 D Language</b></sub></a><br /><a href="https://github.com/seanpm2001/AZWS_Encryption/commits?author=seanpm2001-D-lang" title="Code">💻</a> <a href="https://github.com/seanpm2001/AZWS_Encryption/commits?author=seanpm2001-D-lang" title="Documentation">📖</a> <a href="#projectManagement-seanpm2001-D-lang" title="Project Management">📆</a> <a href="#security-seanpm2001-D-lang" title="Security">🛡️</a> <a href="#data-seanpm2001-D-lang" title="Data">🔣</a> <a href="#content-seanpm2001-D-lang" title="Content">🖋</a> <a href="#design-seanpm2001-D-lang" title="Design">🎨</a> <a href="#maintenance-seanpm2001-D-lang" title="Maintenance">🚧</a> <a href="#ideas-seanpm2001-D-lang" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Dart"><img src="https://avatars.githubusercontent.com/u/85139072?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 Dart language</b></sub></a><br /><a href="https://github.com/seanpm2001/AZWS_Encryption/commits?author=seanpm2001-Dart-lang" title="Code">💻</a> <a href="https://github.com/seanpm2001/AZWS_Encryption/commits?author=seanpm2001-Dart-lang" title="Documentation">📖</a> <a href="#projectManagement-seanpm2001-Dart-lang" title="Project Management">📆</a> <a href="#security-seanpm2001-Dart-lang" title="Security">🛡️</a> <a href="#data-seanpm2001-Dart-lang" title="Data">🔣</a> <a href="#content-seanpm2001-Dart-lang" title="Content">🖋</a> <a href="#design-seanpm2001-Dart-lang" title="Design">🎨</a> <a href="#maintenance-seanpm2001-Dart-lang" title="Maintenance">🚧</a> <a href="#ideas-seanpm2001-Dart-lang" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
